@@ -37,6 +37,13 @@ function Footer() {
         endorsement of the artist shall be implied. Unauthorized use is
         prohibited and punishable by law.
       </p>
+      <p className="pt-1 font-sans text-white text-sm">
+        The content and images used on this site are copyright protected and
+        copyrights vests with the respective owners. The usage of the content
+        and images on this website is intended to promote the works and no
+        endorsement of the artist shall be implied. Unauthorized use is
+        prohibited and punishable by law.
+      </p>
     </div>
   );
 }
